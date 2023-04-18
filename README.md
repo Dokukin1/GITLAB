@@ -27,8 +27,7 @@
 
 В качестве ответа в репозиторий шаблона с решением добавьте скриншоты с настройками раннера в проекте.
 
-![img](img/1.PNG)
-![img](img/1.1.PNG)
+![Image alt](https://github.com/Dokukin1/GITLAB/blob/main/img/101.png)
 
 ---
 
@@ -80,5 +79,5 @@ build:
 
  ```
  
- ![img](img/2.PNG)
+![Image alt](https://github.com/Dokukin1/GITLAB/blob/main/img/102.png)
  
